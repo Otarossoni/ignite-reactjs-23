@@ -1,6 +1,6 @@
 <p align="center">
-   <img width="100" height="100" src="/@assets/ignite-logo.svg">
-   <img width="100" height="100" src="/@assets/react-logo.svg">
+   <img width="75" height="75" src="/@assets/ignite-logo.svg">
+   <img width="75" height="75" src="/@assets/react-logo.svg">
 </p>
 
 > Repositório com projetos desenvolvidos na trilha de ReactJS do Ignite da [Rockeatseat](www.rocketseat.com.br/ignite)
