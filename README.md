@@ -1,6 +1,6 @@
 <p align="center">
-   <img src="/@assets/ignite-logo.svg">
-   <img src="/@assets/react-logo.svg">
+   <img width="100" height="100" src="/@assets/ignite-logo.svg">
+   <img width="100" height="100" src="/@assets/react-logo.svg">
 </p>
 
 > Repositório com projetos desenvolvidos na trilha de ReactJS do Ignite da [Rockeatseat](www.rocketseat.com.br/ignite)
@@ -12,7 +12,7 @@
 </p>
 
 # Projetos
-  - Capítulo I: [Fundamentos ReactJS]()
+  - Capítulo I: [Fundamentos ReactJS](https://github.com/Otarossoni/ignite-reactjs-23/tree/main/01-fundamentos-reactjs)
 
 # Desafios
   - Capítulo I:
