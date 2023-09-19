@@ -3,7 +3,7 @@
    <img width="75" height="75" src="/@assets/react-logo.svg">
 </p>
 
-> Repositório com projetos desenvolvidos na trilha de ReactJS do Ignite da [Rockeatseat](www.rocketseat.com.br/ignite)
+> Repositório com projetos desenvolvidos na trilha de ReactJS do Ignite da [Rocketseat](www.rocketseat.com.br/ignite)
 
 <p align="center">
    <a href="https://www.linkedin.com/in/otavio-monteiro-rossoni/">
